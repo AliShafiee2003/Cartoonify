@@ -1,5 +1,4 @@
-# Cartoonify
-###**Cartoonify Project **
+### Cartoonify
 
 
 
