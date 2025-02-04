@@ -10,7 +10,7 @@ The project also supports real-time video processing, displaying frames per seco
 
 
 
-## **🚀 Features**
+## ** Features**
 ✔ Convert static images to cartoon-like images  
 ✔ Apply cartoon effect to webcam and live video streams  
 ✔ Process video files and save cartoonified output  
@@ -72,14 +72,5 @@ python Cartoonify.py --video videos/Jobs_2.mp4
 - **OpenCV** 📷 (Computer Vision library)  
 - **Numpy** 🔢 (Numerical processing)  
 - **Matplotlib** 📊 (For visualization)  
-
-
-
-## **📸 Sample Outputs**
-- **Cartoonified Image Output:**  
-  ![Sample Image Output](output/cartoonified_image.jpeg)
-
-- **Cartoonified Video Output:**  
-  Output saved to `output/cartoon_output.mp4`
 
 
