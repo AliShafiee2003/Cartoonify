@@ -10,7 +10,7 @@ The project also supports real-time video processing, displaying frames per seco
 
 
 
-## ** Features**
+## **Features**
 ✔ Convert static images to cartoon-like images  
 ✔ Apply cartoon effect to webcam and live video streams  
 ✔ Process video files and save cartoonified output  
